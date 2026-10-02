@@ -95,6 +95,12 @@
       "exp": "2026-11-01",
       "days": 30,
       "note": ""
+    },
+    {
+      "h": "f85ea523f8e3febb3a54cb0df438dc01da3017c630a924b0829fb21c3e505544",
+      "exp": "2026-10-09",
+      "days": 7,
+      "note": "expirytest"
     }
   ]
 }
