@@ -1,1 +1,10 @@
-{"keys": []}
+{
+  "keys": [
+    {
+      "h": "d9bda415ab0f065a6ab7e8573ea16bd04cd484e12d8c17e634742c2344e9e187",
+      "exp": "2026-11-01",
+      "days": 30,
+      "note": "finalcheck"
+    }
+  ]
+}
