@@ -191,6 +191,14 @@
       "note": "",
       "uid": 24,
       "role": "tester"
+    },
+    {
+      "h": "6a711b563a1fc82ca9193011e68f5cf27b4cc2e2c569218b31e64c0543bcbc9c",
+      "exp": "2026-10-09",
+      "days": 7,
+      "note": "",
+      "uid": 25,
+      "role": "tester"
     }
   ]
 }
