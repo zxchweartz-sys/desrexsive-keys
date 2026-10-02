@@ -215,6 +215,14 @@
       "note": "",
       "uid": 27,
       "role": "user"
+    },
+    {
+      "h": "2f56573e31d8b1a8a1c1c22bc1bcffa63dc6b39f9b5fc41bcb0c023bf9f88b37",
+      "exp": "2026-11-01",
+      "days": 30,
+      "note": "",
+      "uid": 28,
+      "role": "developer"
     }
   ]
 }
