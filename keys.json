@@ -255,6 +255,14 @@
       "note": "",
       "uid": 32,
       "role": "user"
+    },
+    {
+      "h": "896a0615425ffdbbe27f6c662e334e5453823f2da0f23e494c670ead91dfc93c",
+      "exp": "2026-10-09",
+      "days": 7,
+      "note": "",
+      "uid": 33,
+      "role": "user"
     }
   ]
 }
