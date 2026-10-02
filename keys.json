@@ -175,6 +175,14 @@
       "note": "verify",
       "uid": 22,
       "role": "tester"
+    },
+    {
+      "h": "9f4a7178bc1810477e265dbf34c3829ca2889fef40b6ff86e3f3a3d61bd6ff15",
+      "exp": "2026-10-09",
+      "days": 7,
+      "note": "",
+      "uid": 23,
+      "role": "tester"
     }
   ]
 }
