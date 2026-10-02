@@ -29,6 +29,12 @@
       "exp": "2026-11-01",
       "days": 30,
       "note": ""
+    },
+    {
+      "h": "a2f83d00ec3c496dd511b2c5a15f612c48cf7b52da91160b77c7e9ddcd0745b6",
+      "exp": "2026-11-01",
+      "days": 30,
+      "note": "launctest"
     }
   ]
 }
