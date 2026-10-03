@@ -26,6 +26,14 @@
       "note": "",
       "uid": 3,
       "role": "user"
+    },
+    {
+      "h": "04307aebbc29c81fd2ff5420cdb03ee2b67728be6ec48027768276fa7ccd99d1",
+      "exp": "2026-10-10",
+      "days": 7,
+      "note": "guardtest",
+      "uid": 4,
+      "role": "user"
     }
   ]
 }
