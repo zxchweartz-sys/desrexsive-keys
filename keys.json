@@ -1,1 +1,12 @@
-{"keys": []}
+{
+  "keys": [
+    {
+      "h": "49a82a20d9edb5f8afada5f918723bb72a3a61505f34b7a8892112fb89a50b41",
+      "exp": "2054-02-17",
+      "days": 9999,
+      "note": "owner",
+      "uid": 1,
+      "role": "developer"
+    }
+  ]
+}
