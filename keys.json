@@ -24,6 +24,14 @@
       "note": "",
       "uid": 3,
       "role": "tester"
+    },
+    {
+      "h": "c566655f24c4b01f9230af45047a1699d61e4476f1ccb5f013d16f2e44d3aeb1",
+      "exp": "2054-02-17",
+      "days": 9999,
+      "note": "",
+      "uid": 4,
+      "role": "tester"
     }
   ]
 }
