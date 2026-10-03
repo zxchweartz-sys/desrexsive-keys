@@ -7,6 +7,14 @@
       "note": "owner",
       "uid": 1,
       "role": "developer"
+    },
+    {
+      "h": "f54dd91b4f16a5eeb6fd1474beca76ea6816f646fdec9c9c3daba90abeea2a01",
+      "exp": "2026-10-10",
+      "days": 7,
+      "note": "",
+      "uid": 2,
+      "role": "user"
     }
   ]
 }
