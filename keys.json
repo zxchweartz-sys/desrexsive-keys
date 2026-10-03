@@ -15,6 +15,14 @@
       "note": "",
       "uid": 2,
       "role": "user"
+    },
+    {
+      "h": "f4d7e1dd68c8603689dc3f169dc0ae6972f03e40d8033b83ffa5eabe3203d30a",
+      "exp": "2026-10-10",
+      "days": 7,
+      "note": "stricttest",
+      "uid": 3,
+      "role": "user"
     }
   ]
 }
