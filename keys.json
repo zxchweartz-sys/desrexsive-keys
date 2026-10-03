@@ -1,1 +1,21 @@
-{"keys": [{"h": "0fbe974df30ee5dfc67398ee0c11ca7ccc8cd6c8c43da117d5c34f7847f1e796", "exp": "2054-02-17", "days": 9999, "note": "owner", "uid": 1, "role": "developer", "used": false}]}
+{
+  "keys": [
+    {
+      "h": "0fbe974df30ee5dfc67398ee0c11ca7ccc8cd6c8c43da117d5c34f7847f1e796",
+      "exp": "2054-02-17",
+      "days": 9999,
+      "note": "owner",
+      "uid": 1,
+      "role": "developer",
+      "used": false
+    },
+    {
+      "h": "97268217c8529d77fc06577109445995afe5ebd74fb56b2ec8eaef5b66522611",
+      "exp": "2054-02-17",
+      "days": 9999,
+      "note": "",
+      "uid": 2,
+      "role": "tester"
+    }
+  ]
+}
