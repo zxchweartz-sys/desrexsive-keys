@@ -280,6 +280,14 @@
       "note": "",
       "uid": 35,
       "role": "user"
+    },
+    {
+      "h": "051c3eaef4cedb31a0b27297938c24be96a0cdfe40dd0514fbdb8133615e2247",
+      "exp": "2026-10-10",
+      "days": 7,
+      "note": "hwidtest",
+      "uid": 36,
+      "role": "user"
     }
   ]
 }
